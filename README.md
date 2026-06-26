@@ -47,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Math
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
