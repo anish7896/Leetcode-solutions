@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/anish7896/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anish7896/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
