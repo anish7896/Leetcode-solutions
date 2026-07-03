@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/anish7896/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anish7896/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -121,16 +122,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
