@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anish7896/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1288-remove-covered-intervals](https://github.com/anish7896/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anish7896/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/anish7896/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1288-remove-covered-intervals](https://github.com/anish7896/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
