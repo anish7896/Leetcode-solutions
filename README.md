@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anish7896/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/anish7896/Leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/anish7896/Leetcode-solutions/tree/master/2801-count-stepping-numbers-in-range) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/anish7896/Leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anish7896/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/anish7896/Leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/anish7896/Leetcode-solutions/tree/master/2801-count-stepping-numbers-in-range) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/anish7896/Leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Recursion
 |  |
 | ------- |
