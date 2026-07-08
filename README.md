@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/anish7896/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anish7896/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/anish7896/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anish7896/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anish7896/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
