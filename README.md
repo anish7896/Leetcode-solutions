@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/anish7896/Leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anish7896/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anish7896/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1854-maximum-population-year](https://github.com/anish7896/Leetcode-solutions/tree/master/1854-maximum-population-year) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anish7896/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2376-count-special-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
@@ -211,10 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/anish7896/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/anish7896/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
