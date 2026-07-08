@@ -6,7 +6,7 @@ public:
         for(auto &it : prerequisites){
             int u = it[0];
             int v = it[1];
-            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
         vector<int> indegree(V, 0);
         for(int i=0;i<V;i++){
