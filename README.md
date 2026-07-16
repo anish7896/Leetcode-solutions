@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0990-satisfiability-of-equality-equations](https://github.com/anish7896/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anish7896/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anish7896/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/anish7896/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/anish7896/Leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0990-satisfiability-of-equality-equations](https://github.com/anish7896/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/anish7896/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0990-satisfiability-of-equality-equations](https://github.com/anish7896/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anish7896/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anish7896/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/anish7896/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/anish7896/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anish7896/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/anish7896/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0990-satisfiability-of-equality-equations](https://github.com/anish7896/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anish7896/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anish7896/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
