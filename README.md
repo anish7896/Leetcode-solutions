@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anish7896/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anish7896/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anish7896/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2376-count-special-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anish7896/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
