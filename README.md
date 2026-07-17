@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/anish7896/Leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0990-satisfiability-of-equality-equations](https://github.com/anish7896/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -303,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/anish7896/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
