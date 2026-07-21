@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1529-minimum-suffix-flips](https://github.com/anish7896/Leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
 | [1702-maximum-binary-string-after-change](https://github.com/anish7896/Leetcode-solutions/tree/master/1702-maximum-binary-string-after-change) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/anish7896/Leetcode-solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1529-minimum-suffix-flips](https://github.com/anish7896/Leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
 | [1702-maximum-binary-string-after-change](https://github.com/anish7896/Leetcode-solutions/tree/master/1702-maximum-binary-string-after-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/anish7896/Leetcode-solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
