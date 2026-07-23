@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anish7896/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/anish7896/Leetcode-solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/anish7896/Leetcode-solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2376-count-special-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
