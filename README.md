@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/anish7896/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anish7896/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/anish7896/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2376-count-special-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2376-count-special-integers) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/anish7896/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/anish7896/Leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/anish7896/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anish7896/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/anish7896/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## String Matching
 |  |
