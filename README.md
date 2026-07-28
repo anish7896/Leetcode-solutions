@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/anish7896/Leetcode-solutions/tree/master/2801-count-stepping-numbers-in-range) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/anish7896/Leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Greedy
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anish7896/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -359,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/anish7896/Leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
