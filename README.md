@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anish7896/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1288-remove-covered-intervals](https://github.com/anish7896/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anish7896/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anish7896/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anish7896/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/anish7896/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anish7896/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/anish7896/Leetcode-solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/anish7896/Leetcode-solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
