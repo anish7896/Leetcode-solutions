@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/anish7896/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0126-word-ladder-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anish7896/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/anish7896/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0433-minimum-genetic-mutation](https://github.com/anish7896/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0520-detect-capital](https://github.com/anish7896/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/anish7896/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0746-min-cost-climbing-stairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anish7896/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/anish7896/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Shortest Path
 |  |
 | ------- |
