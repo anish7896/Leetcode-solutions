@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0746-min-cost-climbing-stairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0813-largest-sum-of-averages](https://github.com/anish7896/Leetcode-solutions/tree/master/0813-largest-sum-of-averages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/anish7896/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/anish7896/Leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0813-largest-sum-of-averages](https://github.com/anish7896/Leetcode-solutions/tree/master/0813-largest-sum-of-averages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/anish7896/Leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1854-maximum-population-year](https://github.com/anish7896/Leetcode-solutions/tree/master/1854-maximum-population-year) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anish7896/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0813-largest-sum-of-averages](https://github.com/anish7896/Leetcode-solutions/tree/master/0813-largest-sum-of-averages) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/anish7896/Leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anish7896/Leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
