@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/anish7896/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/anish7896/Leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0695-max-area-of-island](https://github.com/anish7896/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/anish7896/Leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anish7896/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/anish7896/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/anish7896/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anish7896/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/anish7896/Leetcode-solutions/tree/master/0813-largest-sum-of-averages) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -378,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
