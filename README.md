@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anish7896/Leetcode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2376-count-special-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anish7896/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anish7896/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
