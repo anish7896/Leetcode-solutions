@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anish7896/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/anish7896/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/anish7896/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anish7896/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0126-word-ladder-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anish7896/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/anish7896/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anish7896/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anish7896/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anish7896/Leetcode-solutions/tree/master/0695-max-area-of-island) |
