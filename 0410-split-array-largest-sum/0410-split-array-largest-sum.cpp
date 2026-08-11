@@ -1,28 +1,35 @@
 class Solution {
 public:
-    int dp[1001][51];
-    int solve(int i, int k, vector<int>& nums){
-        int n = nums.size();
-        if(k==1){
-            int sum = 0;
-            for(int j=i;j<n;j++){
-                sum += nums[j];
+    int countSubarray(vector<int>& nums, int largestSum){
+        int parts = 1;
+        long long sum = 0;
+        for(int i=0;i<nums.size();i++){
+            if(sum+nums[i]<=largestSum){
+                sum += nums[i];
             }
-            return sum;
+            else{
+                parts++;
+                sum = nums[i];
+            }
         }
-        if(dp[i][k] != -1) return dp[i][k];
-        int sum = 0;
-        int ans = INT_MAX;
-        for(int j=i;j<=n-k;j++){
-            sum += nums[j];
-            int cost = max(sum, solve(j+1, k-1, nums));
-            ans = min(ans, cost);
-        }
-        return dp[i][k] = ans;
+        return parts;
     }
     int splitArray(vector<int>& nums, int k) {
         int n = nums.size();
-        memset(dp, -1, sizeof(dp));
-        return solve(0, k, nums);
+        if(k>n) return -1;
+        long long lo = *max_element(nums.begin(), nums.end());
+        long long hi = accumulate(nums.begin(), nums.end(), 0LL);
+        long long ans = 0;
+        while(lo<=hi){
+            long long mid = lo+(hi-lo)/2;
+            if(countSubarray(nums, mid)<=k){
+                ans = mid;
+                hi = mid-1;
+            }
+            else{
+                lo = mid+1;
+            }
+        }
+        return (int)ans;
     }
 };
