@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/anish7896/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0695-max-area-of-island](https://github.com/anish7896/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anish7896/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anish7896/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -140,16 +142,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anish7896/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anish7896/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Graph Theory
 |  |
@@ -415,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0877-stone-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
