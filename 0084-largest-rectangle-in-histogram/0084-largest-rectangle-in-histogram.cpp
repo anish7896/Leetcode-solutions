@@ -13,7 +13,7 @@ public:
                 else width = i-st.top()-1;
                 maxArea = max(maxArea, height*width);
             }
-            st.push(i);
+            if(i<n) st.push(i);
         }
         return maxArea;
     }
