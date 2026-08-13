@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anish7896/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anish7896/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0556-next-greater-element-iii](https://github.com/anish7896/Leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/anish7896/Leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/anish7896/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0433-minimum-genetic-mutation](https://github.com/anish7896/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0520-detect-capital](https://github.com/anish7896/Leetcode-solutions/tree/master/0520-detect-capital) |
+| [0556-next-greater-element-iii](https://github.com/anish7896/Leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/anish7896/Leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/anish7896/Leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/anish7896/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/anish7896/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0556-next-greater-element-iii](https://github.com/anish7896/Leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anish7896/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
