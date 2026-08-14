@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/anish7896/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/anish7896/Leetcode-solutions/tree/master/1854-maximum-population-year) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/anish7896/Leetcode-solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anish7896/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anish7896/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anish7896/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anish7896/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/anish7896/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Bit Manipulation
 |  |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/anish7896/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anish7896/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/anish7896/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Range Minimum/Maximum Query
 |  |
