@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/anish7896/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2104-sum-of-subarray-ranges](https://github.com/anish7896/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anish7896/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2104-sum-of-subarray-ranges](https://github.com/anish7896/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Bit Manipulation
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anish7896/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/anish7896/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2104-sum-of-subarray-ranges](https://github.com/anish7896/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Range Minimum/Maximum Query
 |  |
