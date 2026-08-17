@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1529-minimum-suffix-flips](https://github.com/anish7896/Leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
+| [1544-make-the-string-great](https://github.com/anish7896/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1702-maximum-binary-string-after-change](https://github.com/anish7896/Leetcode-solutions/tree/master/1702-maximum-binary-string-after-change) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/anish7896/Leetcode-solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anish7896/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/anish7896/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/anish7896/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/anish7896/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
