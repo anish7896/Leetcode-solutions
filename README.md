@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anish7896/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anish7896/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anish7896/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -488,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anish7896/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
