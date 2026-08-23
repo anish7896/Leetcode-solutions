@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/anish7896/Leetcode-solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anish7896/Leetcode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/anish7896/Leetcode-solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anish7896/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/anish7896/Leetcode-solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anish7896/Leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/anish7896/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anish7896/Leetcode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2376-count-special-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1927-sum-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
