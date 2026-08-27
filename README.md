@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/anish7896/Leetcode-solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1927-sum-game) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anish7896/Leetcode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/anish7896/Leetcode-solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
