@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anish7896/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0813-largest-sum-of-averages](https://github.com/anish7896/Leetcode-solutions/tree/master/0813-largest-sum-of-averages) |
+| [0835-image-overlap](https://github.com/anish7896/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/anish7896/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/anish7896/Leetcode-solutions/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/anish7896/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anish7896/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/anish7896/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anish7896/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anish7896/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
