@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/anish7896/Leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anish7896/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0836-rectangle-overlap](https://github.com/anish7896/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/anish7896/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -547,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/anish7896/Leetcode-solutions/tree/master/0279-perfect-squares) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anish7896/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
