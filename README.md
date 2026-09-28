@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/anish7896/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/anish7896/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0658-find-k-closest-elements](https://github.com/anish7896/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/anish7896/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anish7896/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0556-next-greater-element-iii](https://github.com/anish7896/Leetcode-solutions/tree/master/0556-next-greater-element-iii) |
+| [0658-find-k-closest-elements](https://github.com/anish7896/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/anish7896/Leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0948-bag-of-tokens](https://github.com/anish7896/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/anish7896/Leetcode-solutions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anish7896/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0658-find-k-closest-elements](https://github.com/anish7896/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anish7896/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/anish7896/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anish7896/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/anish7896/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anish7896/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0948-bag-of-tokens](https://github.com/anish7896/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anish7896/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anish7896/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/anish7896/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/anish7896/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anish7896/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -380,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anish7896/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/anish7896/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/anish7896/Leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
