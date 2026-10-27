@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anish7896/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/anish7896/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [0983-minimum-cost-for-tickets](https://github.com/anish7896/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0990-satisfiability-of-equality-equations](https://github.com/anish7896/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/anish7896/Leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anish7896/Leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anish7896/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/anish7896/Leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [0983-minimum-cost-for-tickets](https://github.com/anish7896/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1012-numbers-with-repeated-digits](https://github.com/anish7896/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anish7896/Leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/anish7896/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
