@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anish7896/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1416-restore-the-array](https://github.com/anish7896/Leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anish7896/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/anish7896/Leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
 | [1544-make-the-string-great](https://github.com/anish7896/Leetcode-solutions/tree/master/1544-make-the-string-great) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish7896/Leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anish7896/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/anish7896/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1416-restore-the-array](https://github.com/anish7896/Leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anish7896/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
