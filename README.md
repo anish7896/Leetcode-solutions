@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/anish7896/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/anish7896/Leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/anish7896/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anish7896/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anish7896/Leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anish7896/Leetcode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/anish7896/Leetcode-solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anish7896/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/anish7896/Leetcode-solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2376-count-special-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anish7896/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/anish7896/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anish7896/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/anish7896/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anish7896/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anish7896/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -651,4 +654,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anish7896/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
