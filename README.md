@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anish7896/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anish7896/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anish7896/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anish7896/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anish7896/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/anish7896/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3399-smallest-substring-with-identical-characters-ii) |
 ## Hash Table
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anish7896/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anish7896/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
