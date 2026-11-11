@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/anish7896/Leetcode-solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anish7896/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anish7896/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anish7896/Leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/anish7896/Leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Binary Search
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anish7896/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anish7896/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anish7896/Leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
