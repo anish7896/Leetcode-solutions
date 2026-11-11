@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/anish7896/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2747-count-zero-request-servers](https://github.com/anish7896/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anish7896/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anish7896/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anish7896/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2747-count-zero-request-servers](https://github.com/anish7896/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anish7896/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anish7896/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anish7896/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anish7896/Leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anish7896/Leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2454-next-greater-element-iv](https://github.com/anish7896/Leetcode-solutions/tree/master/2454-next-greater-element-iv) |
+| [2747-count-zero-request-servers](https://github.com/anish7896/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/anish7896/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anish7896/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anish7896/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anish7896/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/anish7896/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anish7896/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
