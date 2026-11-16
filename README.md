@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/anish7896/Leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anish7896/Leetcode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/anish7896/Leetcode-solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anish7896/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anish7896/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anish7896/Leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anish7896/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
