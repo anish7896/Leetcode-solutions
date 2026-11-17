@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anish7896/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anish7896/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/anish7896/Leetcode-solutions/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/anish7896/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anish7896/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anish7896/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anish7896/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0126-word-ladder-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anish7896/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0229-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/anish7896/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/anish7896/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anish7896/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1854-maximum-population-year](https://github.com/anish7896/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anish7896/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anish7896/Leetcode-solutions/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anish7896/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/anish7896/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -678,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anish7896/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anish7896/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
