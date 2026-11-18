@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/anish7896/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/anish7896/Leetcode-solutions/tree/master/2801-count-stepping-numbers-in-range) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anish7896/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anish7896/Leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anish7896/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/anish7896/Leetcode-solutions/tree/master/3399-smallest-substring-with-identical-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/anish7896/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
